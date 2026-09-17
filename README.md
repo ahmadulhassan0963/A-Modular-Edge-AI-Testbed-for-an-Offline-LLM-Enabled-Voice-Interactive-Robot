@@ -301,7 +301,3 @@ modules.
 Contributions, issues, and suggestions are welcome — please open an issue.
 
 ---
-
-## License
-
-Released under the **MIT License**. See [`LICENSE`](LICENSE) for details.
