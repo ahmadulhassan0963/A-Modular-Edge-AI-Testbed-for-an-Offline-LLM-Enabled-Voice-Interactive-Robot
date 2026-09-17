@@ -1,5 +1,4 @@
 # A-Modular-Edge-AI-Testbed-for-an-Offline-LLM-Enabled-Voice-Interactive-Robot
-Fully offline, voice-interactive robot on the NVIDIA Jetson Orin Nano: speech recognition, on-device LLM conversation, and PDF narration in a modular ROS 2 architecture.
 <h1 align="center">A Modular Edge-AI Testbed for an Offline<br>LLM-Enabled Voice-Interactive Robot</h1>
 
 <p align="center">
