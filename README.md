@@ -1,4 +1,3 @@
-# A-Modular-Edge-AI-Testbed-for-an-Offline-LLM-Enabled-Voice-Interactive-Robot
 <h1 align="center">A Modular Edge-AI Testbed for an Offline<br>LLM-Enabled Voice-Interactive Robot</h1>
 
 <p align="center">
